@@ -1,4 +1,4 @@
 # belajar
 * kontribusi1
-* kontribusi2
+* tes2
 
